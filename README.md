@@ -1,2 +1,2 @@
 # 100-days-of-python-Angela-Yu-
-Adding everyday projects
+Building and adding every project from the course
